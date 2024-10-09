@@ -15,7 +15,7 @@ Machine Learning algorithms and frameworks like Computer Vision, TensorFlow
 Best practices in scalable backend development and REST APIs with Django
 Exploring cloud platforms to enhance AI deployment and data handling
 
-💞️ Looking to Collaborate On
+🤝 Looking to Collaborate On
 I’m eager to collaborate on projects that involve:
 AI/ML model development and deployment
 Building robust backend systems using Django
